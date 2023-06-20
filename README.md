@@ -1,8 +1,14 @@
-👋 Hi, I’m @rizzabh
-i develop,design,edit.
+# Hello
+## Hello
 
+<h1>Bruh</h1>
 
-<!---
-rizzabh/rizzabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+         Hello I'm Rishabh Pandey
+        
+GG ***Bruh***
+
+# Teams in Open Source 
+- Front end
+    - lmao
+        - haha
+[Github](https://github.com/rizzabh)
