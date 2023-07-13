@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pandeyrishabh966@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/rizzabh](www.linkedin.com/in/rizzabh)
+- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/rizzabh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
