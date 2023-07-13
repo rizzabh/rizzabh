@@ -10,6 +10,7 @@
 - 📫 How to reach me **pandeyrishabh966@gmail.com**
 
 - ╰(*°▽°*)╯ Know about my experiences [LinkedIn](www.linkedin.com/in/rizzabh)
+- Fun fact: I can edit videos too, i love observing Cinematic shots and presenting them with a tint of my art [Rishabh.jpeg](https://www.instagram.com/rishabh.jpeg/)
 
 <h3 align="left">Socials: </h3>
 <p align="left">
