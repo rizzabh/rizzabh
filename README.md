@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Rishabh!</h1>
 <h3>App Developer and Designer</h3>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.gifer.com/PYh.gif)" width="200" height="200" />
 
 
 
