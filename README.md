@@ -3,7 +3,7 @@
 
 
 
-<div style= width="100px" height="100px">![nyantocat](https://github.com/rizzabh/rizzabh/assets/133371863/50da2c7d-02bc-4eb7-8133-78cbe1e53aea)</div>
+![nyantocat](https://github.com/rizzabh/rizzabh/assets/133371863/50da2c7d-02bc-4eb7-8133-78cbe1e53aea)
 
 
 
