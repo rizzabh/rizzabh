@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Rishabh!</h1>
 <h3>App Developer and Designer</h3>
-<img src="(https://i.gifer.com/PYh.gif)" width="200" height="200" />
+<img src="https://i.gifer.com/PYh.gif" width="200" height="200" />
 
 
 
