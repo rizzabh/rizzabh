@@ -1,8 +1,9 @@
 <h1>Hi 👋, I'm Rishabh!</h1>
 <h3>App Developer and Designer</h3>
 
-![PYh](https://github.com/rizzabh/rizzabh/assets/133371863/f2b50b29-3315-4e0d-8c28-d92550ff1893)
 
+
+![nyantocat](https://github.com/rizzabh/rizzabh/assets/133371863/50da2c7d-02bc-4eb7-8133-78cbe1e53aea)
 
 
 
