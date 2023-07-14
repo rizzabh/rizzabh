@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Rishabh!</h1>
 <h3>App Developer and Designer</h3>
-![](https://github.com/rizzabh/nyancat/blob/main/PYh.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
