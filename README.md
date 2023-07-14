@@ -1,12 +1,6 @@
 <h1>Hi 👋, I'm Rishabh!</h1>
 <h3>App Developer and Designer</h3>
-
 ![nyan-cat](https://github.com/rizzabh/rizzabh/assets/133371863/75c14bd6-ea97-46c8-90de-c1b90437401b)
-
-
-
-
-
 - 🤾 I’m currently learning **JavaScript, React Native**
 
 - 💬 Ask me about **Ui/Ux, App Development**
