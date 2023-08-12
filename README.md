@@ -11,7 +11,7 @@
 
 - ╰(*°▽°*)╯ Know about my experiences [LinkedIn](www.linkedin.com/in/rizzabh)
 - Here's my [Portfolio](https://main--rizzabh.netlify.app)
-- Fun fact: I can edit videos too, I love observing Cinematic shots and expressing them with a tint of my art [Rishabh.jpeg](https://www.instagram.com/rishabh.jpeg/)
+- Fun fact: Im not just a nerd Developer. I can edit videos too, I love observing Cinematic shots and expressing them with a tint of my art [Rishabh.jpeg](https://www.instagram.com/rishabh.jpeg/)
 
 <h3 align="left">Socials: </h3>
 <p align="left">
