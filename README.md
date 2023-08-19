@@ -26,8 +26,8 @@
   <a href="react.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="react" width="40" height="40"/> </a>  </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizzabh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzabh&theme=radical&show_icons=true&hide_border=true&layout=compact" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizzabh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzabh&theme=radical&show_icons=true&hide_border=true&layout=compact" height="175" alt="languages graph"  />
 </div>
 
 ###
