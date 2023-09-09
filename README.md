@@ -3,7 +3,7 @@
 
 ![nyan-cat](https://github.com/rizzabh/rizzabh/assets/133371863/75c14bd6-ea97-46c8-90de-c1b90437401b)
 
-- 🤾 I’m currently learning **JavaScript, React Native**
+- 🤾 I’m currently learning **JavaScript, React**
 
 - 💬 Ask me about **Ui/Ux, App Development**
 
