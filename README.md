@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizzabh&show_icons=true&locale=en&layout=compact&theme=radical" height="175" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizzabh&theme=radical&show_icons=true&hide_border=true&layout=compact" height="175" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizzabh&show_icons=true&theme=transparent" height="175" alt="grades"/>
 </div>
 
 ###
