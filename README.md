@@ -39,6 +39,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rizzabh&label=Profile%20views&color=0e75b6&style=flat" alt="rizzabh" /> </p>
 
 ##
+[![An image of @rizzabh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rizzabh)](https://holopin.io/@rizzabh)
+
 
 <h2 align="center">Beyond the codebox </h2>
 
