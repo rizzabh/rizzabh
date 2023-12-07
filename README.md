@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pandeyrishabh966@gmail.com**
 
-- ╰(*°▽°*)╯ Know about my experiences [LinkedIn](www.linkedin.com/in/rizzabh)
+- ╰(*°▽°*)╯ Know about my experiences [LinkedIn](https://www.linkedin.com/in/rizzabh)
 - Here's my [Portfolio](https://main--rizzabh.netlify.app)
 - Fun fact: Im not just a nerd Developer. I can edit videos too, I love observing Cinematic shots and expressing them with a tint of my art [Rishabh.jpeg](https://www.instagram.com/rishabh.jpeg/)
 
