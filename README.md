@@ -45,8 +45,5 @@
 [![An image of @rizzabh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rizzabh)](https://holopin.io/@rizzabh)
 
 
-<h2 align="center">Beyond the codebox </h2>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zicff7183ximxnvf9zdq56s49&unique={true|1|on|yes})
 
 
